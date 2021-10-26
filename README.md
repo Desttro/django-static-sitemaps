@@ -30,7 +30,7 @@ Usage
 
 Install via standard Python way::
 
-	pip install django-static-sitemaps
+	pip install pip install git+https://github.com/Desttro/django-static-sitemaps
 
 Add `static_sitemaps` to you ``INSTALLED_APPS`` and make sure
 `django.contrib.sitemaps` is present too:
